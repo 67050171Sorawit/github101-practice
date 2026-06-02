@@ -18,7 +18,7 @@ Student Submission Table
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Sorawit Kuhamane | Team 03 | AI & Backend Developer | https://github.com/67050171Sorawit/github101-practice/blob/patch-1/docs/evidence/67050171-Sorawit.md | https://github.com/67050171Sorawit/github101-practice/issues/1 |
+| Sorawit Kuhamane | Team 03 | AI & Backend Developer | https://github.com/67050171Sorawit/NiceCare_404TeamNotFound/blob/main/GitHub%20Skill%20Reflection/GitHub%20Skill%20Reflection_Sorawit.md | https://github.com/67050171Sorawit/github101-practice/issues/1 |
 
 ---
 
